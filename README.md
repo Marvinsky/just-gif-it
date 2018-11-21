@@ -1,3 +1,6 @@
+## Disclaimer
+This project belongs to Dustin Schultz as part of PluralSight's course of Spring Boot
+
 ## About
 Start of Just-Gif-It for Pluralsight course Spring Boot: Efficient Development, Configuration, and Deployment
 
